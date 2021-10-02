@@ -1,5 +1,5 @@
 # My Art Portfolio
-My Art
+Art that I made either for fun or to be used in my games. Mostly pixel art, because that's all I can do, but if I ever end up learning vector art or 3d modelling or something like that, I'll surely add it here as well.
 
 # Jumping Slime
 ![jumpingslime](jumpingslime.gif)  

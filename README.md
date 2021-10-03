@@ -2,8 +2,11 @@
 Art that I made either for fun or to be used in my games. Mostly pixel art, because that's all I can do, but if I ever end up learning vector art or 3d modelling or something like that, I'll surely add it here as well.
 
 # Jumping Slime
-![jumpingslime](jumpingslime.gif)  
-This is actually the first pixel art animation I ever made. (Well, technically I have "animated" sprites which can be considered "pixel art" before, but all I ever did was rotate characters' legs back and forth, which can hardly be called animation.)
+![jumpingslime](newslime4_big.gif)  
+This is actually the first pixel art animation I ever made. (Well, technically I have "animated" sprites which can be considered "pixel art" before, but all I ever did was rotate characters' legs back and forth, which can hardly be called animation.)  
+
+This is how I made it:  
+![slimeprocess](slime_process_gh.gif)
 
 # Alien with no upper body
 ![alien big](alienlegs.png)  
